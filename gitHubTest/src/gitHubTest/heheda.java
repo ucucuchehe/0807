@@ -15,6 +15,7 @@ public class heheda {
 		System.out.println("di ？ ci");
 
         System.out.println("di ？ ci");
+		 System.out.println("测试fetch");
 	}
 
 }
