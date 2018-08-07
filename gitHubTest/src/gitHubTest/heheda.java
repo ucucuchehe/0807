@@ -7,6 +7,7 @@ public class heheda {
 
 		System.out.println("di yi ci");
 		System.out.println("di er ci");
+		System.out.println("di 3 ci");
 	}
 
 }
