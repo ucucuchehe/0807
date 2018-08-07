@@ -13,7 +13,6 @@ System.out.println("di 4 ci");
 
         System.out.println("di ？ ci");
 		System.out.println("di 5 ci");
-		System.out.println("di 7ci");
 	}
 
 }
