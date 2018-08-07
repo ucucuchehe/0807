@@ -6,6 +6,7 @@ public class heheda {
 		// TODO Auto-generated method stub
 
 		System.out.println("di yi ci");
+		System.out.println("di er ci");
 	}
 
 }
