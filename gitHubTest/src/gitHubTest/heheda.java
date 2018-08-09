@@ -10,7 +10,6 @@ public class heheda {
 		System.out.println("di 3 ci");
 System.out.println("0809  1" );
 		System.out.println("0809  c-1" );
-		System.out.println("0809  2" );
 	}
 
 }
