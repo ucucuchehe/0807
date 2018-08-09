@@ -8,11 +8,7 @@ public class heheda {
 		System.out.println("di yi ci");
 		System.out.println("di er ci");
 		System.out.println("di 3 ci");
-System.out.println("di 4 ci");
-
-
-        System.out.println("di ？ ci");
-		System.out.println("di 5 ci");
+System.out.println("0809  1" );
 	}
 
 }
